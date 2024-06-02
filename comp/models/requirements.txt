@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pycryptodome
+scikit-learn
+face_recognition
+joblib
